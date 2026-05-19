@@ -4,7 +4,7 @@ Persönliche GitHub-Pages-Seite von Daniel Kleis aka. SaschkaTM.
 
 ## Projekte
 
-- [Studyble](https://www.studyble.de) - erstes Projekt, aktuell in Bearbeitung
+- [Studyble](https://studyble.de/) - erstes Projekt, aktuell in Bearbeitung
 - [REVO](https://revo.saschaskaskaden.de) - private Offline-First-App zur Rechnungserstellung
 
 ## Lokal öffnen
