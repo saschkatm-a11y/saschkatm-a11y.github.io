@@ -2,7 +2,7 @@
 
 Persönliche GitHub-Pages-Seite von Daniel Kleis aka. SaschkaTM.
 
-Website: https://page.saschaskaskaden.de
+Website: https://page.saschaskaskaden.de/defaultsite/
 
 ## Projekte
 
