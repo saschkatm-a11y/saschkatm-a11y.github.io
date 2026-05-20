@@ -7,7 +7,7 @@ Website: https://page.saschaskaskaden.de
 ## Projekte
 
 - [Studyble](https://studyble.de/) - erstes Projekt, aktuell in Bearbeitung
-- [REVO](https://revo.saschaskaskaden.de) - private Offline-First-App zur Rechnungserstellung
+- [REVO](http://revo.saschaskaskaden.de) - private Offline-First-App zur Rechnungserstellung
 
 ## Lokal öffnen
 
